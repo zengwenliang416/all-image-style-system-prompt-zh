@@ -1,4 +1,4 @@
-# 当前项目图片风格 System / Prompt（中文）
+# 图片风格 System / Prompt（中文）
 
 说明：
 
